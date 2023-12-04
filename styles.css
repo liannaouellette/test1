@@ -1,0 +1,149 @@
+* {
+    background-color: rgba(242, 244, 246, 0.929);
+    margin: 5;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;;
+    /*This makes my entire code bold unless i change it*/
+}
+.yup {
+  bottom: -500px;
+    position: absolute;
+    right: 250px;
+
+}
+p {
+    line-height: 20px;
+}
+a {
+    color: black;
+    font-size: larger;
+}
+button {
+    color: rgb(15, 65, 15);
+    height: 30px;
+    font-size: 20px;
+    width: 200px;
+}
+.dog {
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.length {
+    top: 50px;
+}
+.right {
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.center {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    /*this writing is completely different from all the other titles in my code*/
+    font-weight: bold;
+    font-size: xxx-large;
+    top: 50px;
+}
+.left {
+    top: 0px;
+    display: inline-block;
+    position:absolute;
+    left:0px;
+
+
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    /*this adds lines in between the words in my table*/
+    width: 100%;
+    left: 200px;
+  }
+
+  th {
+    border: 1px solid #f4f5f8;
+    text-align: middle;
+    padding: 6px;
+    left: 200px; 
+  }
+
+  p {
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: left;
+
+  }
+  .spacing {
+    padding-left: 900px;
+    
+  }
+
+  .pic {
+    position: absolute;
+    bottom: 2%;
+    right: 7%;
+  }
+
+  .div {
+
+   padding-left: 200px;
+  }
+
+  .purple {
+    padding-left: 180px;
+    margin-top: -30px ;
+    font-weight: lighter;
+    font-size: 20px;
+  }
+
+  .yes {
+    margin-top: -30px ;
+  padding-left: 245px;
+  }
+
+  .div1 {
+    padding-left: 155px;
+    font-size: xx-large;
+    font-weight: lighter;
+
+  }
+
+ 
+
+.bottle {
+    background-color: pink;
+    font-size:0.5cm;
+    position: absolute;
+    left: 950px;
+    bottom: -270px;
+}
+.ok {
+    padding-left: 700px;
+}
+.div1 {
+    padding-left: 700px;
+    font-size: 20px;
+    font-weight: lighter;
+    padding-right: 30px;
+}
+.benefits {
+    padding-left: 300px;
+}
+.Shopping-tips {
+    padding-left: 900px;
+}
+
+li {
+    font-weight: lighter;
+    
+}
+ul {
+    padding-left: 700px;
+    padding-right: 50px;
+}
